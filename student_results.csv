@@ -1,0 +1,401 @@
+student_id,student_name,program,semester,gender,city,attendance_pct,midterm_marks,final_marks,assignment_marks,gpa,scholarship
+23L-5000,Talha Chaudhry,BS Computer Science,5,Male,Lahore,72.5,44.0,36.0,67.0,2.3,No
+23L-5001,Ayesha Mirza,BBA,1,Female,Peshawar,100.0,74.0,81.0,65.0,3.04,Yes
+23L-5002,Danish Siddiqui,BS Business Analytics,7,Female,Karachi,88.8,50.0,51.0,59.0,2.78,Yes
+23L-5003,Zainab Sheikh,BBA,6,Female,Islamabad,77.9,65.0,53.0,74.0,2.66,No
+23L-5004,Faraz Mirza,BBA,7,Male,Peshawar,95.1,75.0,71.0,74.0,3.09,No
+23L-5005,Talha Sheikh,BS Accounting & Finance,7,Female,Lahore,83.7,66.0,56.0,74.0,2.96,No
+23L-5006,Amna Raza,BS Business Analytics,3,Female,Lahore,89.1,67.0,74.0,87.0,3.0,No
+23L-5007,Ayesha Sheikh,BS Business Analytics,5,Female,Multan,84.6,57.0,53.0,65.0,2.83,No
+23L-5008,Talha Chaudhry,BS Business Analytics,6,Female,Karachi,70.7,67.0,72.0,81.0,3.3,No
+23L-5009,Omar Raza,BS Computer Science,6,Male,Multan,92.7,50.0,43.0,59.0,2.4,Yes
+23L-5010,Usman Chaudhry,BS Accounting & Finance,1,Male,Multan,83.8,84.0,78.0,78.0,3.24,No
+23L-5011,Omar Ahmed,BS Business Analytics,7,Male,Peshawar,70.9,55.0,49.0,67.0,2.56,Yes
+23L-5012,Danish Raza,BS Computer Science,8,Male,Islamabad,73.6,59.0,44.0,52.0,2.24,No
+23L-5013,Maryam Malik,BS Business Analytics,3,Male,Lahore,92.5,67.0,67.0,59.0,3.16,No
+23L-5014,Maryam Qureshi,BS Accounting & Finance,6,Male,Peshawar,77.9,63.0,65.0,84.0,3.05,No
+23L-5015,Zainab Khan,BS Business Analytics,2,Female,Lahore,82.5,32.0,44.0,53.0,2.16,No
+23L-5016,Hassan Iqbal,BS Accounting & Finance,8,Female,Lahore,89.2,74.0,63.0,80.0,2.96,No
+23L-5017,Omar Mirza,BS Accounting & Finance,2,Female,Lahore,83.4,38.0,41.0,60.0,2.4,No
+23L-5018,Faraz Mirza,BS Business Analytics,2,Male,Lahore,65.2,52.0,41.0,64.0,2.68,No
+23L-5019,Amna Raza,BS Accounting & Finance,3,Female,Lahore,89.0,81.0,89.0,81.0,3.37,No
+23L-5020,Omar Butt,BS Computer Science,4,Female,Islamabad,92.3,53.0,62.0,69.0,2.74,Yes
+23L-5021,Hassan Sheikh,BS Computer Science,4,Male,Peshawar,91.5,72.0,71.0,63.0,2.84,No
+23L-5022,Zainab Raza,BS Computer Science,6,Male,Lahore,99.8,48.0,65.0,76.0,2.96,Yes
+23L-5023,Maryam Ahmed,BS Computer Science,6,Male,Lahore,86.0,83.0,81.0,78.0,3.45,No
+23L-5024,Usman Mirza,BS Computer Science,1,Female,Islamabad,90.5,52.0,60.0,71.0,3.11,No
+23L-5025,Laiba Chaudhry,BS Accounting & Finance,3,Male,Lahore,99.5,53.0,51.0,80.0,2.7,No
+23L-5026,Omar Mirza,BBA,7,Male,Karachi,78.8,47.0,45.0,62.0,2.41,No
+23L-5027,Ali Iqbal,BBA,3,Female,Peshawar,100.0,50.0,47.0,76.0,2.51,No
+23L-5028,Zainab Butt,BS Computer Science,6,Female,Lahore,100.0,73.0,61.0,68.0,3.1,Yes
+23L-5029,Faraz Qureshi,BBA,3,Male,Karachi,90.6,65.0,65.0,75.0,2.78,Yes
+23L-5030,Bilal Siddiqui,BS Business Analytics,7,Female,Lahore,100.0,74.0,79.0,78.0,3.43,No
+23L-5031,Sana Hussain,BBA,5,Male,Islamabad,91.4,62.0,50.0,74.0,2.79,No
+23L-5032,Laiba Hussain,BS Business Analytics,2,Female,Lahore,72.3,52.0,59.0,64.0,2.67,No
+23L-5033,Iqra Iqbal,BBA,4,Male,Multan,94.5,67.0,76.0,65.0,3.0,No
+23L-5034,Sana Iqbal,BS Accounting & Finance,7,Male,Karachi,85.6,73.0,54.0,71.0,3.04,No
+23L-5035,Fatima Iqbal,BS Computer Science,2,Male,Peshawar,86.5,62.0,66.0,60.0,3.17,Yes
+23L-5036,Sana Qureshi,BS Accounting & Finance,5,Male,Lahore,83.7,73.0,60.0,69.0,2.91,No
+23L-5037,Sana Mirza,BBA,8,Male,Karachi,97.0,71.0,80.0,81.0,3.4,Yes
+23L-5038,Amna Malik,BS Business Analytics,2,Female,Lahore,88.1,61.0,46.0,61.0,2.85,No
+23L-5039,Hassan Siddiqui,BS Accounting & Finance,4,Male,Lahore,74.3,41.0,25.0,49.0,1.95,No
+23L-5040,Faraz Malik,BS Business Analytics,2,Female,Karachi,87.3,51.0,48.0,55.0,2.47,Yes
+23L-5041,Laiba Malik,BS Accounting & Finance,6,Male,Multan,90.0,56.0,82.0,73.0,3.0,Yes
+23L-5042,Amna Raza,BS Business Analytics,7,Female,Karachi,74.0,26.0,20.0,47.0,1.79,No
+23L-5043,Omar Mirza,BS Accounting & Finance,5,Male,Multan,77.2,61.0,43.0,67.0,2.58,Yes
+23L-5044,Sana Raza,BS Business Analytics,4,Female,Multan,77.8,64.0,67.0,72.0,2.95,Yes
+23L-5045,Hassan Hussain,BS Computer Science,1,Male,Lahore,75.3,56.0,51.0,80.0,2.64,No
+23L-5046,Noor Iqbal,BBA,3,Male,Lahore,85.8,46.0,57.0,57.0,2.39,No
+23L-5047,Saad Ahmed,BS Computer Science,7,Male,Multan,93.2,74.0,77.0,68.0,3.04,No
+23L-5048,Saad Butt,BBA,3,Male,Islamabad,100.0,85.0,72.0,82.0,3.2,No
+23L-5049,Bilal Mirza,BS Computer Science,1,Male,Karachi,95.1,63.0,58.0,68.0,2.94,No
+23L-5050,Danish Sheikh,BS Business Analytics,6,Female,Karachi,93.2,76.0,82.0,82.0,3.33,No
+23L-5051,Sana Khan,BBA,2,Male,Karachi,94.6,78.0,82.0,68.0,3.22,Yes
+23L-5052,Iqra Malik,BS Business Analytics,2,Female,Lahore,96.7,53.0,56.0,69.0,2.82,No
+23L-5053,Ali Sheikh,BS Computer Science,1,Male,Lahore,77.9,89.0,83.0,91.0,3.67,No
+23L-5054,Saad Qureshi,BBA,2,Female,Lahore,89.6,54.0,44.0,62.0,2.41,Yes
+23L-5055,Noor Iqbal,BBA,8,Male,Lahore,85.5,58.0,56.0,55.0,2.6,No
+23L-5056,Usman Raza,BS Computer Science,6,Male,Lahore,80.6,34.0,50.0,65.0,2.54,No
+23L-5057,Zainab Chaudhry,BS Business Analytics,8,Male,Multan,77.0,60.0,62.0,70.0,2.94,Yes
+23L-5058,Bilal Siddiqui,BS Computer Science,8,Male,Islamabad,76.4,40.0,37.0,70.0,2.22,Yes
+23L-5059,Hassan Iqbal,BS Computer Science,8,Male,Islamabad,79.1,55.0,51.0,66.0,2.69,No
+23L-5060,Faraz Butt,BS Computer Science,6,Female,Karachi,68.4,73.0,75.0,69.0,3.19,No
+23L-5061,Laiba Malik,BS Computer Science,1,Male,Peshawar,87.7,62.0,70.0,72.0,3.2,Yes
+23L-5062,Talha Raza,BS Business Analytics,8,Male,Lahore,81.8,61.0,74.0,60.0,2.9,No
+23L-5063,Usman Qureshi,BS Business Analytics,4,Male,Islamabad,83.2,86.0,78.0,85.0,3.58,No
+23L-5064,Laiba Ahmed,BS Accounting & Finance,3,Female,Karachi,85.7,52.0,60.0,54.0,2.75,No
+23L-5065,Laiba Raza,BS Business Analytics,7,Male,Peshawar,90.0,65.0,66.0,76.0,2.89,No
+23L-5066,Ayesha Qureshi,BS Computer Science,3,Male,Lahore,75.5,51.0,49.0,65.0,2.73,No
+23L-5067,Noor Siddiqui,BS Computer Science,3,Female,Lahore,80.8,69.0,57.0,71.0,3.03,No
+23L-5068,Noor Raza,BS Accounting & Finance,3,Male,Islamabad,64.3,55.0,51.0,66.0,2.47,No
+23L-5069,Noor Malik,BS Computer Science,3,Male,Multan,57.6,52.0,47.0,64.0,2.84,No
+23L-5070,Danish Butt,BS Computer Science,3,Male,Islamabad,60.7,54.0,48.0,69.0,2.46,No
+23L-5071,Ali Hussain,BS Accounting & Finance,4,Female,Islamabad,98.9,59.0,54.0,59.0,2.56,No
+23L-5072,Bilal Sheikh,BS Computer Science,3,Male,Lahore,61.9,51.0,43.0,66.0,2.45,No
+23L-5073,Bilal Iqbal,BBA,7,Female,Islamabad,87.2,71.0,71.0,71.0,3.24,No
+23L-5074,Talha Sheikh,BS Computer Science,7,Male,Karachi,98.2,59.0,62.0,51.0,2.85,Yes
+23L-5075,Ayesha Khan,BBA,5,Male,Peshawar,77.0,44.0,42.0,60.0,2.37,No
+23L-5076,Zainab Qureshi,BBA,3,Female,Lahore,99.9,55.0,65.0,75.0,3.12,No
+23L-5077,Fatima Butt,BS Accounting & Finance,4,Female,Lahore,100.0,57.0,58.0,66.0,2.84,Yes
+23L-5078,Ali Raza,BS Computer Science,4,Male,Lahore,92.4,50.0,62.0,74.0,3.02,Yes
+23L-5079,Hira Mirza,BS Computer Science,4,Female,Karachi,100.0,66.0,67.0,75.0,3.45,No
+23L-5080,Hamza Qureshi,BS Business Analytics,4,Male,Peshawar,88.9,56.0,63.0,67.0,2.88,No
+23L-5081,Hira Ahmed,BS Accounting & Finance,2,Female,Islamabad,74.0,59.0,52.0,54.0,2.27,No
+23L-5082,Hamza Mirza,BS Accounting & Finance,8,Female,Islamabad,87.8,72.0,55.0,76.0,2.86,No
+23L-5083,Iqra Malik,BBA,6,Female,Karachi,77.2,53.0,48.0,67.0,2.44,No
+23L-5084,Usman Qureshi,BS Business Analytics,3,Female,Lahore,67.7,28.0,28.0,51.0,1.99,No
+23L-5085,Iqra Siddiqui,BS Business Analytics,3,Female,Peshawar,68.0,54.0,62.0,72.0,2.86,No
+23L-5086,Noor Hussain,BS Accounting & Finance,6,Female,Karachi,100.0,51.0,39.0,59.0,2.22,No
+23L-5087,Fatima Hussain,BS Accounting & Finance,6,Female,Lahore,76.1,47.0,34.0,62.0,2.14,No
+23L-5088,Sana Qureshi,BS Business Analytics,3,Male,Islamabad,81.8,50.0,40.0,62.0,2.38,No
+23L-5089,Sana Khan,BS Business Analytics,3,Female,Lahore,74.8,61.0,66.0,75.0,2.96,No
+23L-5090,Hira Mirza,BS Computer Science,7,Male,Lahore,83.6,43.0,49.0,62.0,2.12,No
+23L-5091,Noor Siddiqui,BS Computer Science,1,Female,Islamabad,79.5,66.0,60.0,64.0,3.02,No
+23L-5092,Ali Hussain,BS Business Analytics,4,Female,Multan,77.6,64.0,49.0,61.0,2.68,No
+23L-5093,Fatima Khan,BS Business Analytics,6,Female,Lahore,68.8,43.0,49.0,64.0,2.5,No
+23L-5094,Noor Mirza,BS Business Analytics,1,Female,Islamabad,66.6,51.0,29.0,54.0,2.26,No
+23L-5095,Ayesha Qureshi,BS Business Analytics,8,Male,Lahore,73.9,81.0,70.0,54.0,2.96,No
+23L-5096,Saad Qureshi,BS Business Analytics,5,Male,Islamabad,85.3,59.0,71.0,74.0,3.03,Yes
+23L-5097,Sana Ahmed,BS Business Analytics,3,Male,Islamabad,100.0,74.0,65.0,58.0,3.14,No
+23L-5098,Ali Iqbal,BS Computer Science,3,Male,Karachi,93.7,80.0,88.0,99.0,3.79,No
+23L-5099,Iqra Butt,BS Accounting & Finance,3,Male,Karachi,100.0,68.0,64.0,77.0,3.1,Yes
+23L-5100,Hamza Iqbal,BS Accounting & Finance,3,Male,Karachi,87.5,62.0,58.0,77.0,2.85,No
+23L-5101,Laiba Chaudhry,BS Accounting & Finance,6,Male,Peshawar,81.2,59.0,44.0,63.0,2.45,No
+23L-5102,Faraz Chaudhry,BS Computer Science,3,Female,Lahore,67.6,64.0,45.0,62.0,2.81,No
+23L-5103,Amna Hussain,BS Business Analytics,5,Female,Karachi,82.2,62.0,57.0,65.0,2.88,No
+23L-5104,Amna Qureshi,BS Business Analytics,1,Female,Lahore,58.6,46.0,37.0,62.0,2.28,No
+23L-5105,Ayesha Mirza,BS Business Analytics,1,Female,Lahore,78.9,84.0,86.0,79.0,3.2,Yes
+23L-5106,Ali Chaudhry,BBA,6,Female,Lahore,100.0,43.0,33.0,56.0,2.09,No
+23L-5107,Omar Sheikh,BBA,4,Female,Peshawar,85.8,65.0,61.0,77.0,2.68,No
+23L-5108,Omar Hussain,BS Computer Science,5,Male,Lahore,94.6,72.0,66.0,78.0,3.29,No
+23L-5109,Omar Qureshi,BS Accounting & Finance,3,Male,Peshawar,78.0,61.0,49.0,63.0,2.69,No
+23L-5110,Maryam Siddiqui,BS Accounting & Finance,6,Male,Lahore,67.1,48.0,30.0,45.0,2.04,Yes
+23L-5111,Iqra Siddiqui,BBA,8,Male,Islamabad,76.9,49.0,58.0,68.0,2.68,No
+23L-5112,Iqra Siddiqui,BS Business Analytics,5,Female,Islamabad,77.9,59.0,52.0,61.0,3.06,No
+23L-5113,Faraz Chaudhry,BBA,4,Male,Islamabad,95.5,61.0,42.0,64.0,2.74,No
+23L-5114,Noor Sheikh,BS Accounting & Finance,4,Female,Islamabad,100.0,66.0,63.0,82.0,2.83,No
+23L-5115,Amna Qureshi,BS Computer Science,6,Male,Lahore,74.1,45.0,55.0,79.0,2.68,No
+23L-5116,Ayesha Ahmed,BS Computer Science,4,Male,Islamabad,78.3,61.0,63.0,67.0,2.72,No
+23L-5117,Ali Chaudhry,BS Business Analytics,1,Female,Lahore,80.6,66.0,61.0,83.0,2.75,No
+23L-5118,Hira Mirza,BS Computer Science,4,Female,Lahore,78.4,29.0,48.0,73.0,2.44,No
+23L-5119,Amna Iqbal,BBA,8,Female,Multan,68.6,61.0,75.0,73.0,3.47,Yes
+23L-5120,Sana Qureshi,BS Accounting & Finance,8,Male,Karachi,83.3,57.0,51.0,67.0,2.91,Yes
+23L-5121,Usman Khan,BS Business Analytics,4,Female,Peshawar,86.2,69.0,75.0,79.0,3.23,No
+23L-5122,Usman Khan,BS Business Analytics,3,Male,Multan,86.5,70.0,43.0,70.0,2.64,No
+23L-5123,Hamza Mirza,BS Computer Science,8,Male,Karachi,69.0,64.0,68.0,67.0,3.03,No
+23L-5124,Amna Raza,BS Business Analytics,2,Male,Lahore,81.0,49.0,45.0,56.0,2.6,No
+23L-5125,Bilal Iqbal,BS Business Analytics,4,Female,Lahore,63.1,35.0,30.0,63.0,1.93,Yes
+23L-5126,Amna Butt,BS Accounting & Finance,1,Female,Lahore,92.3,46.0,56.0,58.0,2.33,No
+23L-5127,Faraz Chaudhry,BS Computer Science,5,Female,Islamabad,71.1,61.0,65.0,77.0,3.26,No
+23L-5128,Iqra Mirza,BS Computer Science,3,Female,Multan,79.3,73.0,76.0,73.0,3.28,No
+23L-5129,Faraz Mirza,BS Computer Science,6,Male,Lahore,77.4,66.0,79.0,89.0,3.55,Yes
+23L-5130,Zainab Siddiqui,BBA,5,Male,Karachi,75.9,49.0,50.0,75.0,2.68,No
+23L-5131,Fatima Chaudhry,BS Computer Science,3,Male,Multan,70.7,61.0,51.0,60.0,2.89,No
+23L-5132,Hamza Sheikh,BS Business Analytics,5,Female,Islamabad,62.9,25.0,28.0,65.0,1.94,No
+23L-5133,Ali Sheikh,BS Accounting & Finance,5,Male,Karachi,100.0,27.0,35.0,48.0,2.13,Yes
+23L-5134,Faraz Mirza,BS Computer Science,6,Male,Peshawar,85.1,49.0,51.0,73.0,2.87,No
+23L-5135,Hamza Hussain,BS Computer Science,5,Male,Karachi,85.2,55.0,47.0,68.0,2.76,Yes
+23L-5136,Talha Raza,BS Computer Science,6,Female,Lahore,100.0,43.0,44.0,57.0,2.32,No
+23L-5137,Zainab Mirza,BS Computer Science,4,Female,Karachi,81.2,25.0,41.0,60.0,2.33,No
+23L-5138,Hassan Iqbal,BS Computer Science,1,Female,Lahore,88.4,68.0,69.0,69.0,2.96,Yes
+23L-5139,Omar Mirza,BS Computer Science,7,Female,Lahore,82.6,43.0,64.0,65.0,2.53,No
+23L-5140,Danish Malik,BS Business Analytics,4,Female,Karachi,95.4,47.0,55.0,59.0,2.68,No
+23L-5141,Hamza Qureshi,BBA,1,Female,Lahore,87.9,89.0,82.0,87.0,3.76,No
+23L-5142,Zainab Mirza,BS Business Analytics,3,Female,Islamabad,85.8,65.0,58.0,74.0,3.02,No
+23L-5143,Usman Mirza,BS Computer Science,7,Female,Karachi,79.5,60.0,44.0,59.0,2.37,Yes
+23L-5144,Bilal Malik,BS Computer Science,1,Female,Islamabad,85.4,66.0,60.0,79.0,3.1,No
+23L-5145,Saad Ahmed,BS Business Analytics,2,Female,Lahore,95.1,59.0,56.0,54.0,2.8,No
+23L-5146,Laiba Siddiqui,BS Business Analytics,5,Male,Lahore,59.5,81.0,65.0,87.0,3.16,No
+23L-5147,Ali Butt,BS Computer Science,1,Male,Islamabad,80.9,44.0,31.0,61.0,1.86,No
+23L-5148,Saad Ahmed,BS Computer Science,7,Female,Lahore,77.8,51.0,38.0,64.0,2.56,No
+23L-5149,Danish Qureshi,BS Computer Science,5,Female,Karachi,79.0,54.0,61.0,64.0,2.92,No
+23L-5150,Ayesha Qureshi,BS Computer Science,1,Male,Lahore,60.6,51.0,39.0,86.0,2.63,Yes
+23L-5151,Fatima Raza,BS Accounting & Finance,4,Female,Lahore,90.4,81.0,76.0,79.0,3.09,No
+23L-5152,Amna Chaudhry,BS Accounting & Finance,5,Male,Lahore,73.1,33.0,41.0,58.0,2.04,No
+23L-5153,Fatima Siddiqui,BS Computer Science,1,Male,Karachi,79.9,50.0,51.0,58.0,2.71,No
+23L-5154,Faraz Sheikh,BS Business Analytics,1,Male,Islamabad,76.8,59.0,63.0,82.0,3.09,No
+23L-5155,Hassan Raza,BS Accounting & Finance,3,Male,Lahore,64.0,59.0,66.0,70.0,3.01,No
+23L-5156,Laiba Chaudhry,BS Computer Science,7,Male,Lahore,77.5,71.0,63.0,85.0,3.06,No
+23L-5157,Hassan Iqbal,BBA,4,Male,Karachi,62.1,66.0,58.0,65.0,2.91,No
+23L-5158,Usman Hussain,BS Business Analytics,5,Male,Islamabad,72.0,82.0,79.0,89.0,3.38,No
+23L-5159,Talha Sheikh,BS Computer Science,4,Male,Lahore,78.9,54.0,58.0,63.0,2.69,No
+23L-5160,Omar Khan,BS Computer Science,1,Female,Lahore,82.3,54.0,66.0,78.0,2.81,No
+23L-5161,Ayesha Malik,BS Business Analytics,3,Male,Karachi,83.0,71.0,62.0,74.0,3.05,No
+23L-5162,Saad Iqbal,BBA,5,Female,Karachi,80.8,63.0,63.0,60.0,2.81,Yes
+23L-5163,Amna Siddiqui,BS Business Analytics,7,Female,Peshawar,100.0,66.0,52.0,70.0,2.94,No
+23L-5164,Laiba Sheikh,BS Accounting & Finance,2,Female,Karachi,87.2,59.0,62.0,57.0,2.91,Yes
+23L-5165,Talha Malik,BBA,1,Female,Lahore,68.9,46.0,47.0,57.0,2.34,No
+23L-5166,Maryam Ahmed,BBA,2,Female,Islamabad,75.6,39.0,35.0,66.0,2.55,No
+23L-5167,Fatima Mirza,BS Business Analytics,8,Male,Lahore,75.1,51.0,41.0,51.0,2.21,Yes
+23L-5168,Laiba Khan,BS Business Analytics,6,Female,Lahore,80.4,33.0,35.0,63.0,2.27,No
+23L-5169,Danish Hussain,BS Business Analytics,4,Female,Lahore,75.7,56.0,61.0,69.0,2.99,No
+23L-5170,Noor Butt,BS Computer Science,4,Male,Islamabad,73.0,44.0,30.0,50.0,2.34,No
+23L-5171,Noor Khan,BBA,3,Female,Lahore,100.0,84.0,94.0,88.0,3.36,No
+23L-5172,Saad Hussain,BS Accounting & Finance,8,Male,Peshawar,82.8,91.0,71.0,88.0,3.56,Yes
+23L-5173,Bilal Butt,BS Business Analytics,1,Male,Lahore,78.7,64.0,71.0,74.0,3.27,No
+23L-5174,Usman Chaudhry,BS Business Analytics,8,Male,Peshawar,79.6,59.0,54.0,66.0,2.95,No
+23L-5175,Laiba Sheikh,BS Accounting & Finance,3,Female,Peshawar,80.0,45.0,37.0,71.0,2.05,No
+23L-5176,Ali Ahmed,BS Accounting & Finance,7,Male,Karachi,97.7,80.0,81.0,85.0,3.34,No
+23L-5177,Zainab Mirza,BS Business Analytics,5,Male,Karachi,87.6,57.0,53.0,70.0,2.71,No
+23L-5178,Hira Khan,BS Computer Science,4,Female,Lahore,94.7,70.0,52.0,68.0,2.75,Yes
+23L-5179,Ali Malik,BS Business Analytics,7,Female,Islamabad,48.1,42.0,34.0,56.0,2.42,No
+23L-5180,Bilal Ahmed,BS Computer Science,8,Female,Lahore,86.0,71.0,71.0,73.0,3.04,No
+23L-5181,Amna Raza,BS Business Analytics,5,Female,Lahore,94.0,56.0,57.0,68.0,2.95,No
+23L-5182,Talha Iqbal,BBA,1,Female,Lahore,100.0,75.0,61.0,75.0,3.12,No
+23L-5183,Maryam Khan,BS Computer Science,8,Male,Karachi,82.7,36.0,46.0,58.0,2.14,Yes
+23L-5184,Ali Ahmed,BS Accounting & Finance,7,Male,Lahore,63.5,53.0,54.0,75.0,2.59,No
+23L-5185,Omar Sheikh,BS Business Analytics,4,Male,Peshawar,88.9,68.0,74.0,71.0,3.08,No
+23L-5186,Usman Sheikh,BS Computer Science,3,Female,Karachi,75.8,53.0,59.0,63.0,2.75,No
+23L-5187,Sana Butt,BS Accounting & Finance,1,Male,Lahore,62.7,63.0,49.0,63.0,2.83,No
+23L-5188,Sana Khan,BS Accounting & Finance,7,Male,Lahore,75.6,55.0,62.0,90.0,2.94,No
+23L-5189,Omar Malik,BBA,4,Female,Lahore,94.0,58.0,65.0,53.0,2.95,Yes
+23L-5190,Bilal Iqbal,BS Business Analytics,1,Female,Lahore,95.6,67.0,85.0,81.0,3.13,No
+23L-5191,Iqra Hussain,BS Business Analytics,1,Female,Lahore,90.3,31.0,31.0,53.0,1.6,Yes
+23L-5192,Hira Qureshi,BS Computer Science,5,Male,Islamabad,70.9,62.0,60.0,74.0,2.85,No
+23L-5193,Faraz Hussain,BS Computer Science,7,Female,Lahore,100.0,93.0,59.0,91.0,3.34,No
+23L-5194,Bilal Raza,BBA,1,Male,Multan,69.5,40.0,39.0,66.0,2.29,No
+23L-5195,Usman Khan,BS Computer Science,8,Female,Peshawar,81.5,55.0,43.0,65.0,2.38,Yes
+23L-5196,Sana Butt,BS Computer Science,3,Female,Peshawar,66.5,74.0,55.0,70.0,2.97,No
+23L-5197,Amna Hussain,BS Computer Science,1,Female,Lahore,96.9,48.0,49.0,65.0,2.85,Yes
+23L-5198,Sana Iqbal,BS Computer Science,5,Female,Islamabad,87.3,56.0,56.0,61.0,2.69,Yes
+23L-5199,Saad Siddiqui,BS Computer Science,2,Male,Karachi,92.2,79.0,68.0,74.0,3.07,No
+23L-5200,Noor Raza,BS Business Analytics,2,Male,Peshawar,83.4,57.0,59.0,68.0,2.68,No
+23L-5201,Zainab Khan,BS Accounting & Finance,1,Female,Lahore,81.7,67.0,69.0,70.0,3.35,No
+23L-5202,Fatima Raza,BS Business Analytics,6,Male,Islamabad,84.3,53.0,37.0,67.0,2.43,Yes
+23L-5203,Usman Khan,BBA,4,Male,Islamabad,61.7,49.0,53.0,84.0,2.83,No
+23L-5204,Omar Qureshi,BS Business Analytics,5,Female,Lahore,93.4,71.0,78.0,86.0,3.51,No
+23L-5205,Noor Butt,BS Computer Science,3,Male,Islamabad,92.5,68.0,71.0,74.0,3.28,No
+23L-5206,Zainab Khan,BS Computer Science,2,Male,Islamabad,78.1,36.0,38.0,37.0,1.98,No
+23L-5207,Laiba Chaudhry,BBA,3,Male,Multan,82.3,62.0,53.0,83.0,2.99,No
+23L-5208,Ali Iqbal,BS Computer Science,5,Male,Multan,85.7,59.0,59.0,78.0,3.01,No
+23L-5209,Iqra Butt,BS Computer Science,3,Female,Lahore,99.7,53.0,56.0,61.0,2.76,No
+23L-5210,Fatima Iqbal,BS Computer Science,4,Female,Islamabad,87.2,77.0,86.0,77.0,3.6,No
+23L-5211,Laiba Raza,BS Business Analytics,2,Female,Lahore,82.9,43.0,47.0,60.0,2.37,No
+23L-5212,Ayesha Butt,BS Computer Science,1,Female,Islamabad,76.9,82.0,74.0,78.0,3.3,No
+23L-5213,Faraz Iqbal,BBA,7,Female,Lahore,65.9,49.0,42.0,70.0,2.41,No
+23L-5214,Omar Sheikh,BBA,6,Male,Lahore,75.9,69.0,69.0,74.0,3.21,No
+23L-5215,Zainab Hussain,BS Computer Science,8,Female,Karachi,83.3,53.0,63.0,62.0,2.7,No
+23L-5216,Ali Siddiqui,BBA,6,Male,Islamabad,79.7,45.0,31.0,59.0,2.28,No
+23L-5217,Hamza Raza,BS Business Analytics,7,Male,Islamabad,83.3,52.0,67.0,59.0,2.66,No
+23L-5218,Sana Siddiqui,BS Accounting & Finance,8,Male,Multan,90.7,68.0,71.0,72.0,3.09,No
+23L-5219,Faraz Qureshi,BS Business Analytics,5,Male,Lahore,87.3,64.0,70.0,78.0,3.04,No
+23L-5220,Laiba Qureshi,BS Computer Science,8,Male,Lahore,85.5,68.0,57.0,68.0,2.86,Yes
+23L-5221,Ayesha Hussain,BS Computer Science,7,Female,Islamabad,89.7,55.0,44.0,69.0,2.59,No
+23L-5222,Maryam Iqbal,BS Computer Science,3,Male,Lahore,84.5,62.0,70.0,69.0,2.99,No
+23L-5223,Ali Hussain,BBA,6,Female,Multan,82.2,64.0,57.0,79.0,2.87,No
+23L-5224,Usman Khan,BS Computer Science,6,Female,Lahore,87.7,54.0,54.0,69.0,2.4,No
+23L-5225,Talha Khan,BS Business Analytics,6,Female,Islamabad,63.5,44.0,39.0,59.0,2.5,Yes
+23L-5226,Hassan Iqbal,BS Business Analytics,5,Female,Lahore,96.3,68.0,56.0,58.0,2.71,Yes
+23L-5227,Faraz Chaudhry,BS Accounting & Finance,7,Female,Peshawar,68.3,53.0,65.0,63.0,2.79,No
+23L-5228,Faraz Hussain,BS Business Analytics,1,Male,Lahore,91.7,72.0,73.0,71.0,3.04,No
+23L-5229,Fatima Khan,BS Business Analytics,1,Female,Karachi,82.7,49.0,44.0,57.0,2.59,No
+23L-5230,Talha Chaudhry,BS Business Analytics,6,Male,Lahore,94.7,53.0,44.0,71.0,2.43,Yes
+23L-5231,Saad Ahmed,BBA,2,Male,Lahore,82.9,73.0,73.0,87.0,3.35,Yes
+23L-5232,Iqra Sheikh,BS Computer Science,3,Male,Karachi,72.1,24.0,40.0,47.0,2.27,No
+23L-5233,Maryam Iqbal,BS Business Analytics,5,Female,Karachi,94.3,73.0,62.0,77.0,3.3,No
+23L-5234,Hassan Mirza,BS Accounting & Finance,4,Female,Islamabad,84.6,44.0,55.0,65.0,2.79,Yes
+23L-5235,Maryam Iqbal,BS Computer Science,6,Male,Peshawar,83.8,39.0,24.0,53.0,2.12,Yes
+23L-5236,Omar Khan,BS Computer Science,5,Male,Multan,83.4,53.0,68.0,74.0,2.76,No
+23L-5237,Maryam Malik,BBA,8,Male,Islamabad,93.6,54.0,58.0,74.0,2.99,No
+23L-5238,Amna Iqbal,BS Accounting & Finance,5,Male,Lahore,91.5,76.0,87.0,77.0,3.63,No
+23L-5239,Bilal Hussain,BS Computer Science,3,Male,Lahore,85.1,93.0,89.0,86.0,3.81,No
+23L-5240,Omar Iqbal,BBA,3,Male,Lahore,65.5,58.0,56.0,69.0,2.9,No
+23L-5241,Omar Mirza,BS Computer Science,3,Female,Lahore,78.1,67.0,80.0,70.0,3.23,Yes
+23L-5242,Amna Butt,BS Computer Science,7,Male,Islamabad,83.7,76.0,68.0,79.0,3.1,No
+23L-5243,Hamza Raza,BBA,2,Male,Lahore,100.0,56.0,57.0,65.0,2.91,No
+23L-5244,Omar Butt,BBA,1,Male,Lahore,86.8,51.0,47.0,58.0,2.7,No
+23L-5245,Iqra Raza,BS Accounting & Finance,5,Female,Lahore,81.6,80.0,80.0,76.0,3.22,No
+23L-5246,Sana Qureshi,BS Computer Science,5,Male,Lahore,95.7,62.0,46.0,69.0,2.8,No
+23L-5247,Amna Malik,BS Computer Science,7,Female,Lahore,81.4,56.0,56.0,76.0,2.84,No
+23L-5248,Hassan Khan,BS Business Analytics,2,Male,Lahore,82.3,55.0,52.0,70.0,2.83,No
+23L-5249,Ayesha Iqbal,BS Business Analytics,8,Male,Karachi,84.3,60.0,51.0,62.0,2.72,No
+23L-5250,Sana Malik,BS Accounting & Finance,8,Female,Lahore,66.1,49.0,44.0,70.0,2.69,Yes
+23L-5251,Usman Siddiqui,BS Computer Science,7,Female,Lahore,93.1,67.0,60.0,77.0,3.12,No
+23L-5252,Omar Raza,BBA,8,Male,Peshawar,87.3,86.0,85.0,84.0,3.69,Yes
+23L-5253,Sana Mirza,BS Accounting & Finance,3,Male,Islamabad,79.5,52.0,55.0,75.0,2.54,Yes
+23L-5254,Bilal Khan,BS Computer Science,6,Female,Islamabad,70.0,45.0,49.0,52.0,2.58,Yes
+23L-5255,Saad Butt,BBA,3,Female,Lahore,84.9,62.0,53.0,69.0,2.78,No
+23L-5256,Amna Mirza,BS Computer Science,8,Male,Peshawar,98.0,53.0,35.0,53.0,2.15,Yes
+23L-5257,Iqra Sheikh,BS Accounting & Finance,2,Male,Multan,75.5,37.0,49.0,58.0,2.52,No
+23L-5258,Iqra Hussain,BS Computer Science,7,Female,Karachi,70.9,84.0,59.0,94.0,3.0,No
+23L-5259,Amna Hussain,BS Computer Science,4,Male,Lahore,87.2,87.0,91.0,95.0,3.85,No
+23L-5260,Faraz Sheikh,BS Accounting & Finance,6,Male,Islamabad,65.0,53.0,53.0,59.0,2.88,Yes
+23L-5261,Fatima Malik,BS Business Analytics,7,Female,Lahore,58.2,42.0,34.0,64.0,2.2,No
+23L-5262,Amna Ahmed,BBA,6,Female,Karachi,77.7,81.0,68.0,72.0,3.32,No
+23L-5263,Fatima Hussain,BBA,3,Female,Multan,75.0,34.0,27.0,60.0,2.14,No
+23L-5264,Zainab Chaudhry,BBA,8,Female,Peshawar,79.6,43.0,61.0,65.0,2.79,Yes
+23L-5265,Iqra Ahmed,BS Computer Science,6,Female,Peshawar,76.6,74.0,80.0,80.0,3.15,No
+23L-5266,Usman Mirza,BS Computer Science,2,Male,Karachi,86.3,78.0,60.0,77.0,3.16,No
+23L-5267,Laiba Khan,BS Computer Science,3,Male,Lahore,80.2,34.0,46.0,61.0,2.38,No
+23L-5268,Faraz Iqbal,BS Computer Science,6,Female,Lahore,76.0,37.0,25.0,57.0,2.16,No
+23L-5269,Ali Iqbal,BS Business Analytics,6,Male,Lahore,77.6,67.0,68.0,75.0,3.08,Yes
+23L-5270,Talha Chaudhry,BS Accounting & Finance,2,Female,Karachi,89.6,74.0,51.0,68.0,3.01,No
+23L-5271,Faraz Sheikh,BBA,4,Female,Islamabad,93.2,54.0,48.0,69.0,2.66,No
+23L-5272,Hassan Sheikh,BS Computer Science,4,Female,Peshawar,92.6,75.0,75.0,64.0,3.29,No
+23L-5273,Hassan Raza,BBA,3,Female,Lahore,90.3,51.0,49.0,65.0,2.79,No
+23L-5274,Maryam Siddiqui,BS Computer Science,3,Male,Lahore,46.4,23.0,18.0,53.0,1.83,No
+23L-5275,Maryam Ahmed,BBA,1,Female,Lahore,71.6,73.0,61.0,72.0,3.16,Yes
+23L-5276,Maryam Raza,BBA,6,Male,Multan,79.2,55.0,46.0,70.0,2.64,No
+23L-5277,Noor Raza,BS Accounting & Finance,7,Male,Karachi,84.9,38.0,55.0,52.0,2.56,No
+23L-5278,Laiba Khan,BBA,6,Male,Lahore,64.9,43.0,27.0,56.0,2.05,No
+23L-5279,Ayesha Hussain,BS Accounting & Finance,1,Male,Karachi,98.3,71.0,57.0,65.0,3.0,No
+23L-5280,Hamza Siddiqui,BS Accounting & Finance,8,Male,Karachi,86.0,47.0,52.0,67.0,2.79,Yes
+23L-5281,Ali Hussain,BS Computer Science,6,Male,Multan,75.8,67.0,53.0,71.0,2.82,Yes
+23L-5282,Ayesha Malik,BS Business Analytics,7,Female,Lahore,84.5,59.0,52.0,68.0,2.84,Yes
+23L-5283,Hamza Iqbal,BS Business Analytics,4,Female,Karachi,78.8,69.0,78.0,81.0,3.34,Yes
+23L-5284,Faraz Khan,BBA,1,Female,Karachi,74.3,50.0,50.0,55.0,2.37,No
+23L-5285,Bilal Chaudhry,BS Business Analytics,2,Female,Lahore,88.2,49.0,48.0,68.0,2.63,Yes
+23L-5286,Talha Hussain,BS Accounting & Finance,2,Female,Lahore,77.7,33.0,26.0,48.0,2.18,No
+23L-5287,Bilal Mirza,BS Business Analytics,1,Male,Lahore,67.1,35.0,33.0,59.0,2.1,No
+23L-5288,Laiba Butt,BS Accounting & Finance,1,Male,Karachi,75.7,66.0,61.0,74.0,2.69,No
+23L-5289,Fatima Siddiqui,BBA,3,Female,Karachi,81.4,87.0,98.0,100.0,3.89,No
+23L-5290,Sana Iqbal,BS Accounting & Finance,6,Female,Islamabad,70.8,42.0,47.0,65.0,2.38,No
+23L-5291,Sana Khan,BS Business Analytics,4,Female,Peshawar,96.5,50.0,55.0,74.0,3.0,No
+23L-5292,Hamza Ahmed,BS Accounting & Finance,3,Female,Lahore,70.7,55.0,55.0,74.0,2.76,No
+23L-5293,Ayesha Ahmed,BS Computer Science,1,Female,Peshawar,100.0,75.0,64.0,70.0,3.06,No
+23L-5294,Sana Qureshi,BBA,8,Female,Karachi,92.5,66.0,57.0,60.0,2.72,No
+23L-5295,Hamza Qureshi,BS Business Analytics,8,Male,Islamabad,72.3,66.0,43.0,75.0,2.73,No
+23L-5296,Ali Chaudhry,BS Computer Science,2,Male,Lahore,84.1,33.0,34.0,69.0,2.14,No
+23L-5297,Amna Iqbal,BBA,2,Female,Islamabad,95.7,67.0,56.0,70.0,2.73,Yes
+23L-5298,Bilal Mirza,BBA,8,Female,Islamabad,80.6,71.0,61.0,72.0,2.98,No
+23L-5299,Ali Butt,BBA,8,Female,Lahore,69.6,76.0,68.0,85.0,3.1,No
+23L-5300,Talha Qureshi,BS Computer Science,7,Male,Multan,83.9,55.0,58.0,70.0,2.98,No
+23L-5301,Hira Khan,BS Accounting & Finance,6,Male,Lahore,100.0,61.0,48.0,68.0,2.51,No
+23L-5302,Noor Hussain,BBA,7,Male,Karachi,66.3,69.0,52.0,68.0,2.8,No
+23L-5303,Sana Raza,BS Accounting & Finance,6,Male,Lahore,88.8,78.0,69.0,59.0,2.99,No
+23L-5304,Usman Qureshi,BS Business Analytics,5,Female,Karachi,82.8,63.0,65.0,69.0,2.76,No
+23L-5305,Talha Iqbal,BS Business Analytics,7,Female,Lahore,81.4,47.0,38.0,71.0,2.67,No
+23L-5306,Sana Mirza,BS Business Analytics,8,Female,Islamabad,78.4,61.0,69.0,74.0,2.72,Yes
+23L-5307,Amna Chaudhry,BS Business Analytics,5,Male,Islamabad,79.2,74.0,67.0,61.0,3.26,No
+23L-5308,Bilal Raza,BS Business Analytics,2,Male,Karachi,94.1,65.0,50.0,64.0,2.52,No
+23L-5309,Hamza Hussain,BS Computer Science,5,Male,Multan,89.3,39.0,40.0,45.0,2.24,No
+23L-5310,Fatima Siddiqui,BS Accounting & Finance,7,Female,Lahore,71.8,63.0,56.0,88.0,3.27,No
+23L-5311,Zainab Khan,BBA,2,Male,Islamabad,99.9,66.0,61.0,74.0,2.64,No
+23L-5312,Hamza Raza,BS Computer Science,8,Female,Karachi,68.5,63.0,74.0,68.0,2.89,No
+23L-5313,Hassan Malik,BS Business Analytics,4,Female,Peshawar,90.0,65.0,62.0,76.0,3.17,No
+23L-5314,Sana Butt,BBA,5,Female,Lahore,84.8,56.0,49.0,59.0,2.62,No
+23L-5315,Laiba Siddiqui,BBA,1,Male,Multan,95.9,49.0,63.0,70.0,2.73,No
+23L-5316,Hamza Ahmed,BBA,6,Male,Lahore,86.7,42.0,41.0,62.0,2.37,No
+23L-5317,Faraz Ahmed,BS Business Analytics,7,Male,Multan,94.4,59.0,53.0,53.0,2.51,Yes
+23L-5318,Bilal Ahmed,BS Computer Science,2,Male,Lahore,82.5,55.0,51.0,70.0,2.7,Yes
+23L-5319,Hira Qureshi,BS Accounting & Finance,2,Female,Islamabad,93.5,60.0,49.0,56.0,2.84,Yes
+23L-5320,Laiba Raza,BS Computer Science,4,Male,Lahore,86.6,71.0,79.0,88.0,3.3,No
+23L-5321,Iqra Raza,BS Business Analytics,1,Male,Islamabad,100.0,47.0,37.0,60.0,2.36,No
+23L-5322,Faraz Malik,BBA,5,Female,Lahore,75.1,60.0,59.0,62.0,2.98,No
+23L-5323,Hassan Ahmed,BS Computer Science,8,Female,Lahore,95.9,53.0,48.0,51.0,2.8,No
+23L-5324,Bilal Qureshi,BS Business Analytics,3,Male,Multan,87.9,72.0,81.0,94.0,3.35,No
+23L-5325,Noor Khan,BS Computer Science,6,Female,Karachi,84.7,63.0,71.0,83.0,3.18,No
+23L-5326,Noor Iqbal,BS Accounting & Finance,1,Female,Multan,76.6,59.0,55.0,57.0,2.62,No
+23L-5327,Ali Ahmed,BS Business Analytics,3,Male,Islamabad,87.7,65.0,66.0,88.0,3.01,Yes
+23L-5328,Usman Hussain,BS Accounting & Finance,8,Male,Lahore,66.6,63.0,54.0,71.0,2.75,No
+23L-5329,Faraz Sheikh,BS Business Analytics,5,Female,Lahore,67.7,55.0,44.0,64.0,2.45,No
+23L-5330,Danish Chaudhry,BS Computer Science,7,Male,Islamabad,90.6,75.0,72.0,81.0,2.99,No
+23L-5331,Saad Butt,BS Computer Science,4,Female,Multan,65.7,64.0,54.0,73.0,2.54,No
+23L-5332,Fatima Sheikh,BS Business Analytics,3,Male,Lahore,98.6,84.0,85.0,94.0,3.49,No
+23L-5333,Laiba Hussain,BBA,6,Female,Multan,79.8,77.0,75.0,80.0,3.32,No
+23L-5334,Bilal Ahmed,BS Computer Science,5,Female,Lahore,85.6,74.0,56.0,62.0,3.06,Yes
+23L-5335,Usman Iqbal,BS Accounting & Finance,6,Male,Islamabad,83.6,54.0,59.0,86.0,2.81,Yes
+23L-5336,Sana Iqbal,BBA,5,Male,Islamabad,87.4,40.0,49.0,68.0,2.48,No
+23L-5337,Sana Chaudhry,BS Computer Science,5,Female,Lahore,79.7,74.0,67.0,67.0,3.18,No
+23L-5338,Ayesha Sheikh,BS Business Analytics,8,Female,Lahore,78.8,60.0,51.0,68.0,2.83,No
+23L-5339,Saad Butt,BS Computer Science,7,Male,Lahore,81.4,70.0,73.0,68.0,3.12,No
+23L-5340,Amna Khan,BS Business Analytics,5,Male,Karachi,94.4,65.0,53.0,70.0,2.8,No
+23L-5341,Fatima Siddiqui,BBA,4,Male,Karachi,95.3,64.0,57.0,67.0,3.11,Yes
+23L-5342,Maryam Chaudhry,BS Business Analytics,6,Male,Lahore,96.8,44.0,60.0,63.0,2.63,No
+23L-5343,Amna Ahmed,BS Accounting & Finance,5,Male,Lahore,86.8,76.0,54.0,71.0,2.85,No
+23L-5344,Sana Malik,BS Business Analytics,7,Female,Karachi,80.6,70.0,75.0,74.0,2.97,Yes
+23L-5345,Hassan Sheikh,BS Computer Science,7,Male,Lahore,64.4,56.0,51.0,74.0,2.78,No
+23L-5346,Hamza Sheikh,BS Business Analytics,1,Male,Lahore,89.9,75.0,67.0,73.0,3.08,No
+23L-5347,Hira Mirza,BBA,6,Female,Lahore,92.1,71.0,73.0,97.0,3.6,No
+23L-5348,Bilal Hussain,BS Computer Science,5,Female,Lahore,78.4,51.0,43.0,57.0,2.4,No
+23L-5349,Saad Chaudhry,BS Accounting & Finance,1,Male,Multan,91.7,56.0,46.0,73.0,2.76,No
+23L-5350,Fatima Malik,BS Business Analytics,8,Male,Lahore,97.0,48.0,48.0,61.0,2.66,No
+23L-5351,Ali Qureshi,BS Computer Science,2,Male,Islamabad,83.9,75.0,77.0,73.0,3.52,No
+23L-5352,Faraz Iqbal,BBA,7,Female,Lahore,94.5,60.0,60.0,82.0,2.74,No
+23L-5353,Fatima Raza,BS Accounting & Finance,4,Female,Islamabad,86.2,50.0,46.0,67.0,2.78,No
+23L-5354,Hassan Iqbal,BS Accounting & Finance,8,Male,Peshawar,63.8,39.0,27.0,50.0,2.06,No
+23L-5355,Danish Sheikh,BS Computer Science,7,Female,Islamabad,77.6,62.0,54.0,66.0,2.75,No
+23L-5356,Bilal Chaudhry,BS Business Analytics,2,Male,Islamabad,78.3,67.0,70.0,85.0,3.12,No
+23L-5357,Faraz Siddiqui,BBA,5,Female,Karachi,88.7,49.0,55.0,58.0,2.56,No
+23L-5358,Bilal Malik,BS Computer Science,7,Female,Karachi,73.3,66.0,50.0,77.0,2.76,No
+23L-5359,Fatima Malik,BS Business Analytics,7,Male,Peshawar,78.0,73.0,55.0,80.0,2.62,No
+23L-5360,Ayesha Iqbal,BS Accounting & Finance,3,Male,Lahore,72.3,45.0,20.0,58.0,2.13,No
+23L-5361,Amna Butt,BS Business Analytics,4,Male,Karachi,82.4,54.0,62.0,80.0,2.91,Yes
+23L-5362,Hamza Qureshi,BS Accounting & Finance,8,Male,Islamabad,83.6,64.0,75.0,88.0,3.09,No
+23L-5363,Amna Qureshi,BS Accounting & Finance,8,Female,Lahore,93.6,55.0,41.0,68.0,2.51,No
+23L-5364,Hira Hussain,BS Computer Science,7,Male,Karachi,91.6,47.0,45.0,64.0,2.82,No
+23L-5365,Faraz Iqbal,BS Computer Science,4,Male,Lahore,84.7,73.0,63.0,85.0,3.17,No
+23L-5366,Ayesha Butt,BS Computer Science,4,Male,Islamabad,85.5,60.0,64.0,80.0,2.93,Yes
+23L-5367,Amna Malik,BS Business Analytics,6,Female,Lahore,84.0,60.0,59.0,61.0,3.05,No
+23L-5368,Laiba Mirza,BS Business Analytics,5,Female,Lahore,84.1,57.0,70.0,70.0,2.87,No
+23L-5369,Danish Chaudhry,BS Computer Science,2,Male,Lahore,99.9,62.0,65.0,70.0,2.94,Yes
+23L-5370,Usman Qureshi,BS Business Analytics,4,Male,Islamabad,55.5,38.0,40.0,59.0,2.22,No
+23L-5371,Laiba Butt,BS Business Analytics,5,Female,Lahore,80.9,53.0,51.0,53.0,2.53,No
+23L-5372,Saad Siddiqui,BS Computer Science,8,Female,Peshawar,86.3,65.0,62.0,80.0,3.11,No
+23L-5373,Hamza Sheikh,BS Accounting & Finance,1,Female,Islamabad,95.3,75.0,84.0,79.0,3.5,No
+23L-5374,Laiba Ahmed,BS Computer Science,5,Female,Peshawar,70.8,75.0,76.0,81.0,3.2,No
+23L-5375,Ayesha Ahmed,BS Business Analytics,7,Male,Islamabad,86.7,52.0,55.0,74.0,2.72,No
+23L-5376,Usman Qureshi,BS Accounting & Finance,1,Female,Lahore,92.3,84.0,72.0,74.0,3.3,No
+23L-5377,Ali Iqbal,BS Accounting & Finance,7,Male,Lahore,77.9,67.0,73.0,75.0,3.09,No
+23L-5378,Maryam Chaudhry,BS Accounting & Finance,5,Male,Lahore,61.9,48.0,44.0,72.0,2.52,No
+23L-5379,Omar Raza,BS Accounting & Finance,2,Female,Lahore,78.9,65.0,66.0,70.0,2.89,No
+23L-5380,Ayesha Butt,BS Computer Science,1,Male,Karachi,69.6,75.0,47.0,75.0,2.73,No
+23L-5381,Hira Ahmed,BBA,8,Female,Islamabad,90.0,80.0,76.0,90.0,3.41,Yes
+23L-5382,Amna Raza,BS Computer Science,2,Male,Karachi,73.5,45.0,46.0,61.0,2.31,No
+23L-5383,Ayesha Sheikh,BS Business Analytics,7,Male,Lahore,100.0,69.0,68.0,84.0,3.21,No
+23L-5384,Talha Chaudhry,BS Accounting & Finance,4,Female,Islamabad,84.4,61.0,58.0,63.0,2.77,No
+23L-5385,Fatima Butt,BS Accounting & Finance,3,Female,Peshawar,74.0,57.0,41.0,70.0,2.42,No
+23L-5386,Hassan Mirza,BS Computer Science,4,Male,Karachi,77.3,68.0,81.0,68.0,3.15,Yes
+23L-5387,Bilal Chaudhry,BS Computer Science,2,Female,Lahore,70.8,65.0,69.0,75.0,3.0,No
+23L-5388,Zainab Qureshi,BS Accounting & Finance,1,Male,Islamabad,87.1,55.0,46.0,56.0,2.5,No
+23L-5389,Ali Qureshi,BS Accounting & Finance,7,Female,Karachi,99.3,67.0,62.0,78.0,3.02,No
+23L-5390,Maryam Mirza,BS Computer Science,3,Male,Multan,80.5,68.0,62.0,77.0,2.98,Yes
+23L-5391,Omar Ahmed,BS Business Analytics,7,Male,Islamabad,93.0,51.0,52.0,62.0,2.49,Yes
+23L-5392,Noor Mirza,BS Business Analytics,3,Male,Multan,72.5,66.0,67.0,90.0,3.35,Yes
+23L-5393,Fatima Hussain,BBA,2,Female,Lahore,86.2,58.0,48.0,80.0,2.86,No
+23L-5394,Laiba Raza,BS Computer Science,3,Male,Islamabad,100.0,72.0,63.0,76.0,3.07,No
+23L-5395,Ali Chaudhry,BS Accounting & Finance,2,Female,Islamabad,67.4,53.0,66.0,67.0,3.01,No
+23L-5396,Fatima Ahmed,BS Business Analytics,4,Male,Islamabad,96.4,85.0,89.0,73.0,3.59,No
+23L-5397,Talha Chaudhry,BS Computer Science,3,Male,Lahore,95.8,53.0,59.0,70.0,2.75,Yes
+23L-5398,Usman Ahmed,BS Accounting & Finance,1,Female,Karachi,62.2,48.0,51.0,64.0,2.6,No
+23L-5399,Zainab Sheikh,BS Accounting & Finance,5,Female,Lahore,67.1,73.0,76.0,79.0,3.66,No

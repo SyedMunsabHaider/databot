@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+charts/
+.ipynb_checkpoints/
+.env
+api_key.txt
+.DS_Store
